@@ -9,3 +9,5 @@ R-18的实测无法在bing使用，仅gpt
 需要将Gaobaiawa替换为你自己的名字
 
 有可能会更新，主要太闲了，找点事干
+
+[chatGPT](https://chat.openai.com)｜[copilot](https://copilot.microsoft.com)
